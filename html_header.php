@@ -8,11 +8,3 @@
     <title>Gemlik Suniipek Yerleşkesi</title>
 </head>
 <body>
-    <h1>Gemlik Suniipek Yerleşkesi</h1>
-    <ul class="ana-menu">
-        <li><a href="index.html">Ana Sayfa</a></li>
-        <li><a href="hakkimizda.html">Hakkımızda</a></li>
-        <li><a href="iletisim.html">İletişim</a></li>
-    </ul>
-</body>
-</html>
