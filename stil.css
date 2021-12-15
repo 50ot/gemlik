@@ -1,0 +1,19 @@
+.ana-menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 3px;
+}
+.ana-menu li {
+    display: inline-block;
+}
+
+.ana-menu li a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    background-color: silver;
+}
+.ana-menu li a:hover {
+    background-color: black;
+    color: white;
+}
